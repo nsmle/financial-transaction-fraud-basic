@@ -4,6 +4,7 @@ seaborn==0.13.2
 matplotlib==3.10.3
 scikit-learn==1.6.1
 imbalanced-learn==0.13.0
+joblib==1.5.1
 
 # Optional: for Jupyter notebook support
 ipykernel==6.30.0
